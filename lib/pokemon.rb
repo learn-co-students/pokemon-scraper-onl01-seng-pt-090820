@@ -1,5 +1,5 @@
 class Pokemon
-
+#sub
   attr_reader :id, :name, :type, :hp, :db
    @@all = []
 
